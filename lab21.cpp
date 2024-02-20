@@ -1,4 +1,6 @@
 // [Missing Code 1] Include header file.
+ #include <iostream>
+ #include "lab21.h"
   
 int main(){
 	srand(time(0));
